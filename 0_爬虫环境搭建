@@ -1,0 +1,9 @@
+1 安装scrapy
+    方法 https://blog.csdn.net/qq_18649781/article/details/79803076
+    介质 https://www.lfd.uci.edu/~gohlke/pythonlibs/#twisted
+	pip install "D:\pachong_study\tools\Twisted-19.10.0-cp38-cp38-win_amd64.whl"
+	pip install pywin32
+	pip install scrapy
+
+2 在github中创建新的文件夹 
+        https://github.com/fajiufeng/pachong_study.git
